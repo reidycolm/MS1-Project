@@ -32,6 +32,18 @@ h3 {
     margin-top: 15px;
 }
 
+.btn {
+    color: #fff;
+    background-color: steelblue;
+    margin: 10px 0px;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: steelblue;
+    border: 1px solid;
+}
+
 footer {
     width: 100%;
     padding: 25px;
