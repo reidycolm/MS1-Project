@@ -19,9 +19,17 @@ nav .navbar-nav li a {
 
 .backdrop-container,
 .carousel-container,
-.reasons-container
+.reasons-container,
 .tours-container {
     margin: 25px 0px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    margin-top: 15px;
 }
 
 footer {
