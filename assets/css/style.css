@@ -49,6 +49,12 @@ h3 {
     border: 1px solid;
 }
 
+.btn:focus {
+    background-color: #fff;
+    color: steelblue;
+    border: 1px solid;
+}
+
 footer {
     width: 100%;
     padding: 25px;
