@@ -1,3 +1,29 @@
 html, body {
     font-family: 'Lora', sans-serif;   
 }
+
+.container-fluid {
+    background-color: steelblue;
+}
+
+nav .navbar-nav li {
+    padding-left: 50px;
+}
+
+nav .navbar-nav li a {
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 1.5em ;
+    text-decoration: underline;
+}
+
+footer {
+    width: 100%;
+    padding: 25px;
+}
+
+.fab {
+    font-size: 30px;
+    padding: 20px;
+    color: #fff;
+}
