@@ -24,6 +24,10 @@ nav .navbar-nav li a {
     margin: 25px 0px;
 }
 
+.fas {
+    color: steelblue;
+}
+
 h2 {
     text-decoration: underline;
 }
