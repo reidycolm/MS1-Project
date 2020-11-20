@@ -59,3 +59,18 @@ footer {
     padding: 20px;
     color: #fff;
 }
+
+.card {
+  margin: 50px 15px;
+}
+
+@media screen and (min-width : 991px ) {
+  .card {
+    margin-top: 80px;
+  }
+
+  .footer-stay {
+      position: fixed;
+      bottom: 0;
+  }
+}
