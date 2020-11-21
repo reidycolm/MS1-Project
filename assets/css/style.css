@@ -66,8 +66,15 @@ footer {
     color: #fff;
 }
 
-.card {
+.card{
   margin: 50px 15px;
+}
+
+.contact-container {
+    margin-top: 120px;
+    margin-bottom: 60px;
+    height: 60vh;
+
 }
 
 @media screen and (min-width : 991px ) {
