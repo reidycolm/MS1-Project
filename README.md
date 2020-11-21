@@ -4,9 +4,7 @@
 
 ### View the live project [here.](https://reidycolm.github.io/MS1-Project/index.html)
 
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+This is my first project as a Code Institute student. I decided to create a website for a fictitous business that specialised in boat tours along the Wild Atlantic Way. Becuase a service of this kind would attract customers of all ages and backgrounds, I thought it was very important to create a page that was easy to navigate and minimilist in its design.
  
 ## UX
  
