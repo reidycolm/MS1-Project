@@ -101,16 +101,30 @@ This is my first project as a Code Institute student. I decided to create a webs
     2) Carousel slider used shows images of the tours we offer. Tourists would be able to identify and recognise the places they want to travel to.
     3) Website is fully responsive and works on any kind of device.
 
-* **HTML Validators**
+#### Validators
+
+* **HTML**
     - [Homepage](assets/img/htmlval.png) 
     - [Tours](assets/img/htmlval2.png)
     - [Contact](assets/img/htmlval3.png)
 
-* **CSS Validators**
+* **CSS**
     - [style.css](assets/img/cssval.png) 
 
 
-* **Lighthouse**
+#### Lighthouse 
+
+* **Large Screen Devices**
+    - [Homepage](assets/img/home-test.png) 
+    - [Tours](assets/img/tours.test.png)
+    - [Contact](assets/img/contact.test.png)
+
+* **Small Screen Devices**
+    - [Homepage](assets/img/small-test-home.png) 
+    - [Tours](assets/img/small-testtour.png)
+    - [Contact](assets/img/small-testcontact.png)
+
+
 
 * **Bugs Found**
 
