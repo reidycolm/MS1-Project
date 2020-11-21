@@ -4,7 +4,7 @@
 
 ### View the live project [here.](https://reidycolm.github.io/MS1-Project/index.html)
 
-This is my first project as a Code Institute student. I decided to create a website for a fictitous business that specialised in boat tours along the Wild Atlantic Way. Becuase a service of this kind would attract customers of all ages and backgrounds, I thought it was very important to create a page that was easy to navigate and minimilist in its design.
+This is my first project as a Code Institute student. I decided to create a website for a fictitous business that specialised in boat tours along the Wild Atlantic Way. Because a service of this kind would attract customers of all ages and backgrounds, I thought it was very important to create a page that was easy to navigate and minimilist in its design.
  
 ## UX
  
@@ -20,9 +20,9 @@ This is my first project as a Code Institute student. I decided to create a webs
 
 #### Design
 
-* **Colour Scheme** - The primary colours used were steelblue and white. I chose these as I left artistically they worked quite well and steelblue was very similiar to an ocean colour which I felt was sutible.
+* **Colour Scheme** - The primary colours used were steelblue and white. I chose these as I feft artistically they worked quite well and steelblue was very similiar to an ocean colour which I thought was sutible.
 
-* **Typography** - The font style used on this projecy was Lora which I sourced from Google Fonts.
+* **Typography** - The font style used on this project was Lora which I sourced from Google Fonts.
 
 * **Images** - I picked three clear, large images to use in the carousel slider. I wanted the person visiting the site to immediately be drawn to them and become aware that they were the locations that the tours were based on.
 
@@ -123,22 +123,6 @@ This is my first project as a Code Institute student. I decided to create a webs
     - [Homepage](assets/img/small-test-home.png) 
     - [Tours](assets/img/small-testtour.png)
     - [Contact](assets/img/small-testcontact.png)
-
-
-
-* **Bugs Found**
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 
