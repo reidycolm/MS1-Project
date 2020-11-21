@@ -28,7 +28,7 @@ This is my first project as a Code Institute student. I decided to create a webs
 
 * **Images** - I picked three clear, large images to use in the carousel slider. I wanted the person visiting the site to immediately be drawn to them and become aware that they were the locations that the tours were based on.
 
-* **First Sketch** - ![Sketch](https://github.com/reidycolm/MS1-Project/blob/master/assets/img/sketch.png "First Layout Draft")
+* **First Sketch** - [Sketch](assets/img/sketch.jpg)
 
 
 ## Features
@@ -61,13 +61,13 @@ This is my first project as a Code Institute student. I decided to create a webs
 * [JQuery](https://jquery.com)
     - In the form of js scripts which allowed for carousel images to slide and clickable drop down nav bar to function.
 
-* [Gitpod] ()
+* [Gitpod]()
     -
 
-* [Git] ()
+* [Git]()
     -
 
-* [Github] ()
+* [Github]()
     -
 
 * [Pixlr](https://pixlr.com)   
