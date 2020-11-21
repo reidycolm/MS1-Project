@@ -124,6 +124,20 @@ This is my first project as a Code Institute student. I decided to create a webs
     - [Tours](assets/img/small-testtour.png)
     - [Contact](assets/img/small-testcontact.png)
 
+ #### Manuel Testing 
+
+All of the following were tested extensively on multiple devices using dev tools and different phones/computers in the household:
+
+* **NavBar** - Made sure it was reponsive and that dropdown menu worked. Had issue on tours.html and contact.html where it wouldn't work but figured out I never linked js scripts at bottom of file.
+
+* **Carousel** - At first the images didn't fit together on the carousel. It would change size after every slide so I used the pixlr to edit and crop.
+
+* **Contact-Form** - Form won't allow you to submit unless you have filled in both of the email and name containters.
+
+* **Buttons** Tested each button to ensure they change style when hovered on or clicked and each link to either a pop up modal or the tours.html page
+
+* **Social Media Icons** - Icons have been tested to make sure external links work and open in new tab when clicked.
+
 ## Deployment
 
 ### GitHub Pages
