@@ -9,16 +9,14 @@ This is my first project as a Code Institute student. I decided to create a webs
 ## UX
  
 #### First Time Visitor Goals
-
-* I want to know immediately what the website is about when I load the page.
-* As I may be a tourist, it's very important that I can easily see pictures of where the tours operate so I know if I would like to vist them or not.
-* I want to easily be able to access the website on any device as more than likely I will not have my laptop when I am travelling.
+    1) I want to know immediately what the website is about when I load the page.
+    2) As I may be a tourist, it's very important that I can easily see pictures of where the tours operate so I know if I would like to vist them or not.
+    3) I want to easily be able to access the website on any device as more than likely I will not have my laptop when I am travelling.
 
 #### Returner Visitor Goals
-
-* It's very important that I'm able to get in touch with the tour company as I may need to contact them with questions about the tours I'm booked onto.
-* I want to be able to follow Blue Dolphin on social media so I can see recent updates and check out reviews from other tourists.
-* As I may be returning to the site beause I'm having trouble deciding what tour to choose, I want to be able to easily compare what exactly is involved in each.
+    1) It's very important that I'm able to get in touch with the tour company as I may need to contact them with questions about the tours I'm booked onto.
+    2) I want to be able to follow Blue Dolphin on social media so I can see recent updates and check out reviews from other tourists.
+    3) As I may be returning to the site beause I'm having trouble deciding what tour to choose, I want to be able to easily compare what exactly is involved in each.
 
 #### Design
 
@@ -53,8 +51,6 @@ This is my first project as a Code Institute student. I decided to create a webs
 
 * **Contact**
 
-### Features Left to Implement
-?????????
 
 ## Technologies Used
 
@@ -91,6 +87,16 @@ This is my first project as a Code Institute student. I decided to create a webs
 
 
 ## Testing
+
+#### First Time Visitor Goals
+    1) Backdrop container on index.html explains purpose of website and gives option to book tour quickly.
+    2) Carousel slider used shows images of the tours we offer. Tourists would be able to identify and recognise the places they want to travel to.
+    3) Website is fully responsive and works on any kind of device.
+
+#### Returner Visitor Goals
+    1) Backdrop container on index.html explains purpose of website and gives option to book tour quickly.
+    2) Carousel slider used shows images of the tours we offer. Tourists would be able to identify and recognise the places they want to travel to.
+    3) Website is fully responsive and works on any kind of device.
 
 * **Validators**
 
