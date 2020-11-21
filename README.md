@@ -36,10 +36,9 @@ This is my first project as a Code Institute student. I decided to create a webs
     - [Contact](assets/img/large-contact.png)
 
 * **Small Screen Devices**
-    - [Homepage](assets/img/small-home.jpg) 
+    - [Homepage](assets/img/small-home.png) 
     - [Tours](assets/img/small-tours.png)
     - [Contact](assets/img/small-contact.png)
-
 
 
 ## Features
@@ -72,17 +71,23 @@ This is my first project as a Code Institute student. I decided to create a webs
 * [JQuery](https://jquery.com)
     - In the form of js scripts which allowed for carousel images to slide and clickable drop down nav bar to function.
 
-* [Gitpod]()
-    -
+* [Gitpod](https://gitpod.io/)
+    -   Gitpod was the IDE I used when making this project
 
-* [Git]()
-    -
+* [Git](https://git-scm.com/)
+    - Used for version control and allowed me to save my changes externally by committing to GitHub
 
-* [Github]()
-    -
+* [Github](https://github.com/)
+    -   Was used to store files of the project that I had pushed using Git & Gitpod
 
 * [Pixlr](https://pixlr.com)   
     - Online photo editor I used to make sure carousel images were the correct size.
+
+* [Font Awesome](https://fontawesome.com/)   
+    - Site used to soruce icons for the webpage.
+
+* [Google Fonts](https://fonts.google.com/)   
+    - Used to select font styles       
 
 
 ## Testing
