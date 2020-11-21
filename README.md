@@ -30,6 +30,17 @@ This is my first project as a Code Institute student. I decided to create a webs
 
 * **First Sketch** - [Sketch](assets/img/sketch.jpg)
 
+* **Large Screen Devices**
+    - [Homepage](assets/img/large-home.png) 
+    - [Tours](assets/img/large-tours.png)
+    - [Contact](assets/img/large-contact.png)
+
+* **Small Screen Devices**
+    - [Homepage](assets/img/small-home.jpg) 
+    - [Tours](assets/img/small-tours.png)
+    - [Contact](assets/img/small-contact.png)
+
+
 
 ## Features
 
