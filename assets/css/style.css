@@ -2,10 +2,7 @@ html, body {
     font-family: 'Lora', sans-serif;   
 }
 
-.container-fluid {
-    background-color: steelblue;
-}
-
+/* NavBar & Footer */
 nav .navbar-nav li {
     padding-left: 50px;
 }
@@ -17,6 +14,16 @@ nav .navbar-nav li a {
     text-decoration: underline;
 }
 
+footer {
+    width: 100%;
+    padding: 25px;
+}
+
+/* Containers */
+.container-fluid {
+    background-color: steelblue;
+}
+
 .backdrop-container,
 .carousel-container,
 .reasons-container,
@@ -24,10 +31,18 @@ nav .navbar-nav li a {
     margin: 25px 0px;
 }
 
-.fas {
-    color: steelblue;
+.contact-container {
+    margin-top: 80px;
+    margin-bottom: 100px;
+    height: 63vh;
+
 }
 
+.card{
+  margin: 50px 15px;
+}
+
+/* Headings */
 h2 {
     text-decoration: underline;
 }
@@ -36,6 +51,8 @@ h3 {
     margin-top: 15px;
     font-style: italic;
 }
+
+/* Buttons */
 
 .btn {
     color: #fff;
@@ -55,9 +72,9 @@ h3 {
     border: 1px solid;
 }
 
-footer {
-    width: 100%;
-    padding: 25px;
+/* Icons */
+.fas {
+    color: steelblue;
 }
 
 .fab {
@@ -66,17 +83,7 @@ footer {
     color: #fff;
 }
 
-.card{
-  margin: 50px 15px;
-}
-
-.contact-container {
-    margin-top: 80px;
-    margin-bottom: 100px;
-    height: 63vh;
-
-}
-
+/* Media */
 @media screen and (min-width : 991px ) {
   .card {
     margin-top: 80px;
