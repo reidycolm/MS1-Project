@@ -8,12 +8,18 @@ This is my first project as a Code Institute student. I decided to create a webs
  
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+#### First Time Visitor Goals
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+* I want to know immediately what the website is about when I load the page.
+* As I may be a tourist, it's very important that I can easily see pictures of where the tours operate so I know if I would like to vist them or not.
+* I want to easily be able to access the website on any device as more than likely I will not have my laptop when I am travelling.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+#### Returner Visitor Goals
+
+* It's very important that I'm able to get in touch with the tour company as I may need to contact them with questions about the tours I'm booked onto.
+* I want to be able to follow Blue Dolphin on social media so I can see recent updates and check out reviews from other tourists.
+* As I may be returning to the site beause I'm having trouble deciding what tour to choose, I want to be able to easily compare what exactly is involved in each.
+
 
 ## Features
 
@@ -77,7 +83,3 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Media
 - The photos used in this site were obtained from ...
-
-### Acknowledgements
-
-- I received inspiration for this project from X
