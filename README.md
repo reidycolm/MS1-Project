@@ -22,35 +22,52 @@ This is my first project as a Code Institute student. I decided to create a webs
 
 #### Design
 
-* Colour Scheme - The primary colours used were steelblue and white. I chose these as I left artistically they worked quite well and steelblue was very similiar to an ocean colour which I felt was sutible.
+* **Colour Scheme** - The primary colours used were steelblue and white. I chose these as I left artistically they worked quite well and steelblue was very similiar to an ocean colour which I felt was sutible.
 
-* Typography - The font style used on this projecy was Lora which I sourced from Google Fonts.
+* **Typography** - The font style used on this projecy was Lora which I sourced from Google Fonts.
 
-* Images - I picked three clear, large images to use in the carousel slider. I wanted the person visiting the site to immediately be drawn to them and become aware that they were the locations that the tours were based on.
+* **Images** - I picked three clear, large images to use in the carousel slider. I wanted the person visiting the site to immediately be drawn to them and become aware that they were the locations that the tours were based on.
 
 
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+* **Navigation Bar**
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+* **Image Carousel**
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+* **Buttons**
+
+* **Modal**
+
+* **Contact**
 
 ### Features Left to Implement
-- Another feature idea
+?????????
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+#### Languages
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+#### Frameworks, Libraries and Other Tools
+
+* [Bootstrap] (https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Used to style webpage and ensure it was fully reponsive
+
+* [JQuery](https://jquery.com)
+    - In the form of js scripts which allowed for carousel images to slide and clickable drop down nav bar to function.
+
+* [] ()
+    -
+
+* [] ()
+    -
+
+* [Pixlr] (https://pixlr.com/)   
+    - Online photo editor I used to make sure carousel images were the correct size.
 
 
 ## Testing
