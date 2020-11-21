@@ -41,15 +41,15 @@ This is my first project as a Code Institute student. I decided to create a webs
 
 ## Features
 
-* **Navigation Bar**
+* **Navigation Bar** - Located at the top of every screen, it provides easy access to the other pages of the website. Appears as dropdown button on smaller devices. Each link and logo in the nav bar can be clicked.
 
-* **Image Carousel**
+* **Image Carousel** - Sliding Images showcase the locations of the tours Blue Dolphin offers. Also includes indicators so the person has full control of moving onto the next photo.
 
-* **Buttons**
+* **Buttons** - Used to link to tours.html and to ensure a modal pops up when "book now" is clicked. Each button changes style when hovered over or clicked.
 
-* **Modal**
+* **Modal** - Appears as a pop up when "book now" is selected and acts as a notification to users to convey that the business is currently closed due to the pandemic.
 
-* **Contact**
+* **Contact Page** - Provides the ability to send the business a message. Name and Email field are required, otherwise it will not allow you to complete form.
 
 
 ## Technologies Used
@@ -84,6 +84,9 @@ This is my first project as a Code Institute student. I decided to create a webs
 
 * [Google Fonts](https://fonts.google.com/)   
     - Used to select font styles       
+
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse)   
+    - Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more.     
 
 
 ## Testing
