@@ -1,4 +1,8 @@
-# Your Project's Name
+# Blue Dolphin Tours
+
+![alt text](https://github.com/reidycolm/MS1-Project/tree/master/assets/imgblue-dolphin.png "Blue Dolphin Tours Responsive")
+
+### View the live project [here.](https://reidycolm.github.io/MS1-Project/index.html)
 
 One or two paragraphs providing an overview of your project.
 
