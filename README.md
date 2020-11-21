@@ -193,11 +193,15 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-* **Bootsrap**
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction)
+    - Read documentation and took code from site to use for carousel, modal and cards on tour page.
 
-* **Youtube Vid**
+* [Youtube Video](https://www.youtube.com/watch?v=w4xa_u80qF4&t=309s)
+    - Watched and used code used in this video to make a responsive contact form.
 
-* **Course Projects**
+* Rewatched Projects from course. Took inspiration and advice used in Whiskey Drop mini project.
+
 
 ### Media
-- Google images credit
+
+* [All of the images used in this project were taken from Google Images searches](https://www.google.com/imghp?hl=EN)
